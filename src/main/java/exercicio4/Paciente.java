@@ -1,3 +1,5 @@
+package exercicio4;
+
 public class Paciente {
     private double peso;
     private double altura;
