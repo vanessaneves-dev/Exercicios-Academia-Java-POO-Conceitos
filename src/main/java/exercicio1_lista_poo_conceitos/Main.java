@@ -1,4 +1,4 @@
-package exercicio1;
+package exercicio1_lista_poo_conceitos;
 
 public class Main {
     public static void main(String[] args) {

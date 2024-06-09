@@ -1,4 +1,4 @@
-package exercicio2;
+package exercicio2_lista_poo_conceitos;
 
 public class Aluno {
     private String nome;

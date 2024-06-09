@@ -1,5 +1,4 @@
-package exercicio2;
-import exercicio2.Turma;
+package exercicio2_lista_poo_conceitos;
 
 
 public class Main {

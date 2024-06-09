@@ -1,4 +1,4 @@
-package exercicio3;
+package exercicio3_lista_poo_conceitos;
 
 import java.util.ArrayList;
 import java.util.List;
