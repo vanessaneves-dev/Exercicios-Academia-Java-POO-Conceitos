@@ -1,6 +1,7 @@
 package exercicio5_lista_poo_conceitos;
 
 public class ImpostoDeRenda {
+
     private Pessoa pessoa;
 
     public ImpostoDeRenda(Pessoa pessoa) {
