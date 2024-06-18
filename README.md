@@ -1,4 +1,4 @@
-# Exercícios de Estudos em Java POO Conceitos - Academia Java Atos
+# Exercícios de Estudos em Java POO Conceitos - Academia Java
 
 Este repositório contém os exercícios de estudos em Java realizados durante o curso da Academia Java da Atos.
 
